@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* CSS Document */
+* {
+	margn: 0;
+	padding: 0;
+}
+header {
+	background-color: aliceblue;
+	padding: 20px;
+}
+h1 {
+	color: black;
+	font-size: 40;
+	text-align: center;
+}
+.carousel {
+      width: 600px;
+      }
+button {
+	color: black;
+	align-content: center;
+}
+.card {
+	width: 14rem;
+}
+img{
+	height: 360px;
+}
+.jumbotron {
+	background-color: darkslateblue;
+	color: white;
+}
+.display-4 {
+	color: white;
+}
